@@ -2,7 +2,7 @@
 
 E="mcedit"
 PM="apt"
-ipsec="strongswan"
+ipsec="strongswan-starter"
 l2tp="xl2tpd"
 
 cf_ppp_secrets="/etc/ppp/chap-secrets"
