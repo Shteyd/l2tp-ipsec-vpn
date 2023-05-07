@@ -1,6 +1,6 @@
 #!/bin/bash
 
-E="mcedit"
+E="vim"
 PM="apt"
 ipsec="strongswan-starter"
 l2tp="xl2tpd"
